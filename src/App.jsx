@@ -2,7 +2,7 @@ import React from 'react'
 
 export const App = () => {
   return (
-    <div>hello vercel</div>
+    <div>baavaa zail</div>
   )
 }
 export default App
