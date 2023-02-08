@@ -1,5 +1,5 @@
 import React from 'react'
-import zurag from '../assets/1.jpeg'
+import zurag from './asda.png'
 const styles={
   zurag:{
     height:"100vh",
